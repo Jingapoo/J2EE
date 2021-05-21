@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<employees>
+
+ <employee id="1">
+  <firstname>LL</firstname>
+  <lastname>KK</lastname>
+  <address>
+   <area>Oakland</area>
+   <city>Bloomfield Hills</city>
+   <state>Michigan</state>
+   <country>United States</country>
+  </address>
+ </employee>
+
+ <employee id="2">
+  <firstname>SS</firstname>
+  <lastname>HH</lastname>
+  <address>
+   <area>Detroit</area>
+   <city>Detroit</city>
+   <state>Michigan</state>
+   <country>United States</country>
+  </address>
+ </employee>
+
+ <employee id="3">
+  <firstname>TT</firstname>
+  <lastname>VD</lastname>
+  <address>
+   <area>Oakland</area>
+   <city>Bloomfield Hills</city>
+   <state>Michigan</state>
+   <country>United States</country>
+  </address>
+ </employee>
+
+</employees>
